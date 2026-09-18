@@ -1,5 +1,3 @@
-# llm-redteam-eval-harness
-Automated safety evaluation harness benchmarking LLMs against standard and novel jailbreak techniques.
 # Automated LLM Red-Teaming & Safety Evaluation Harness
 
 An automated framework built in Python to evaluate the adversarial resilience and safety boundaries of Large Language Models (LLMs) against standard and novel jailbreak techniques.
